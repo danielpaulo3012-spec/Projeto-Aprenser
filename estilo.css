@@ -1,0 +1,21 @@
+:root{
+    --primary-color: #fed001;
+}
+
+html{
+    font: 400 62.5% "Inter", Sans-serif;
+}
+
+p, a{
+    font-size: 1.6rem;
+}
+
+h1{
+    font-size: 4.8rem;
+}
+h2{
+    font-size: 4rem ;
+}
+h3{
+    font-size: 3.2rem;
+}
